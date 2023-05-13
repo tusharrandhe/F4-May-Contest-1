@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fronted4contest1/static/css/main.894ff826.css",
+    "main.js": "/fronted4contest1/static/js/main.65ca890d.js",
+    "index.html": "/fronted4contest1/index.html",
+    "main.894ff826.css.map": "/fronted4contest1/static/css/main.894ff826.css.map",
+    "main.65ca890d.js.map": "/fronted4contest1/static/js/main.65ca890d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.894ff826.css",
+    "static/js/main.65ca890d.js"
+  ]
+}
