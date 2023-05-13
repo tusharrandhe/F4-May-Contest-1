@@ -1,0 +1,33 @@
+*{
+  background-color: black;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+  text-align: center;
+}
+
+.inputs{
+  border: 1px solid white;
+  height: 25px;
+  font-size: 20px;
+}
+
+.inputs::placeholder{
+  color: white;
+}
+
+#forms{
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+button{
+  height: 45px;
+  width: 45px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+}
